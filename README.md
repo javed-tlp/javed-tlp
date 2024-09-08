@@ -109,6 +109,14 @@ Explore my personal portfolio, a vibrant showcase of my work and skills, built w
 
 Feel free to reach out for collaborations or if you have any questions!
 
+### [Contact Form Project](https://contactformnode.netlify.app/)
+Check out my contact form project, where I've implemented a fully functional contact form using **Node.js**, **Nodemailer**, **JavaScript**, **HTML**, and **API**. Key features include:
+
+- 📧 **Email Functionality:** Users can send messages directly via the form, with emails handled by Nodemailer.
+- 🛠️ **Backend Integration:** Utilizes Node.js for server-side handling and API integration for email sending.
+- 📄 **Form Validation:** Includes client-side validation to ensure data accuracy before submission.
+- 🌐 **Responsive Design:** Designed to be user-friendly and accessible across different devices and screen sizes.
+
 ---
 
 # 📈 Contributions
@@ -117,28 +125,5 @@ I actively contribute to various open-source projects and enjoy collaborating wi
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=javed-tlp&label=Profile%20Views&color=4&icon=2&pretty=false" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=javed-tlp&label=Profile%20Views&color=4&icon=2&pretty=false" alt="Visit Count" />
 </p>
-
-## 🤝 Connect with Me
-Feel free to connect and collaborate:
-
-<p align="center">
-  <a href="[https://www.linkedin.com/in/javed-tlp/](https://www.linkedin.com/in/javed-saifi-b9660418a/)" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;"/>
-  </a>
-  <a href="[https://twitter.com/javed_saifi](https://x.com/javedsaifi2808)" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 10px;"/>
-  </a>
-  <a href="[https://www.facebook.com/javed.saifi.39](https://www.facebook.com/javed.saifi.786687)" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="border-radius: 10px;"/>
-  </a>
-  <a href="https://www.instagram.com/javed_saifi_0786/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 10px;"/>
-  </a>
-  <a href="https://github.com/javed-tlp" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 10px;"/>
-  </a>
-</p>
-
----
