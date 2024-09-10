@@ -1,12 +1,22 @@
-# 🌟 About Me
-Welcome to my GitHub profile! I'm a passionate web developer committed to learning and growing in the tech field.
 
-- 🔭 **Currently working on:** Exciting projects with **Angular**, **Node.js**, and **Next.js**. Building robust web applications and exploring full-stack development.
-- 🌱 **Learning:** Diving into modern web frameworks and server-side rendering with **Next.js**.
-- 🤝 **Seeking help with:** Data Structures & Algorithms (DSA) to refine my problem-solving skills.
-- 💬 **Ask me about:** AngularJS, Node.js, and Next.js—I'm always excited to discuss and share insights.
-- 📫 **Reach out:** [saifijaved616@gmail.com](mailto:saifijaved616@gmail.com) – Let’s connect and collaborate!
-- ⚡ **Fun Fact:** I thrive on tackling coding challenges and experimenting with emerging technologies!
+<!-- About Me Section -->
+<div style="text-align: center;">
+  <h2>🌟 About Me</h2>
+
+  <p>
+    <strong>Welcome to my GitHub profile!</strong> I'm a passionate web developer committed to learning and growing in the tech field.
+  </p>
+</div>
+
+<!-- Other Content -->
+<ul style="list-style: none; padding: 0; margin: 0;">
+  <li>🔭 <strong>Currently working on:</strong> Exciting projects with <strong>Angular</strong>, <strong>Node.js</strong>, and <strong>Next.js</strong>. Building robust web applications and exploring full-stack development.</li>
+  <li>🌱 <strong>Learning:</strong> Diving into modern web frameworks and server-side rendering with <strong>Next.js</strong>.</li>
+  <li>🤝 <strong>Seeking help with:</strong> Data Structures & Algorithms (DSA) to refine my problem-solving skills.</li>
+  <li>💬 <strong>Ask me about:</strong> AngularJS, Node.js, and Next.js—I'm always excited to discuss and share insights.</li>
+  <li>📫 <strong>Reach out:</strong> <a href="mailto:saifijaved616@gmail.com">saifijaved616@gmail.com</a> – Let’s connect and collaborate!</li>
+  <li>⚡ <strong>Fun Fact:</strong> I thrive on tackling coding challenges and experimenting with emerging technologies!</li>
+</ul>
 
 ---
 
@@ -65,24 +75,46 @@ Here’s a snapshot of the technologies and tools I work with:
 </p>
 
 ---
-
 # 📊 GitHub Stats
-Here’s a glimpse into my coding journey and contributions:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javed-tlp&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="Javed's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javed-tlp&theme=gruvbox&hide_border=true" alt="Javed's Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javed-tlp&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Javed's Top Languages" />
+  <!-- Enlarged Profile Details Card -->
+  <a href="https://github.com/javed-tlp">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javed-tlp&theme=radical" alt="Profile Details" width="80%" />
+  </a>
 </p>
+
+
+
+<p align="center">
+  <!-- Repos Per Language and Most Commit Language -->
+  <a href="https://github.com/javed-tlp">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javed-tlp&theme=radical" alt="Repos Per Language" width="30%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javed-tlp&theme=radical" alt="Most Commit Language" width="30%" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Detailed Stats and Productive Time -->
+  <a href="https://github.com/javed-tlp">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=javed-tlp&theme=radical" alt="Detailed Stats" width="30%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=javed-tlp&theme=radical" alt="Productive Time" width="30%" />
+  </a>
+</p>
+
 
 ---
 
-## 🏆 GitHub Trophies
-Here are some achievements that highlight my dedication and progress:
+# 🏆 GitHub Trophies
+Celebrating my GitHub milestones:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=javed-tlp&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="Javed's GitHub Trophies" />
+  <a href="https://github.com/javed-tlp">
+    <img src="https://github-profile-trophy.vercel.app/?username=javed-tlp&theme=darkhub&no-frame=true&margin-w=5&column=8" alt="Javed's GitHub Trophies" />
+  </a>
 </p>
+
+
 
 ---
 
@@ -101,29 +133,31 @@ Here are some achievements that highlight my dedication and progress:
 Explore my personal portfolio, a vibrant showcase of my work and skills, built with **Next.js**. Here's what you can expect:
 
 - 🚀 **Modern Design:** A sleek and contemporary layout emphasizing visual appeal and user experience.
-- 🖥️ **Fast and Optimized:** Utilizes server-side rendering with Next.js for quick load times and smooth performance.
-- 💼 **Comprehensive Showcase:** Highlights my projects, skills, and professional achievements, offering a detailed view of my work.
-- 🎨 **Customizable Themes:** Features dynamic styling and responsive design for a seamless experience across devices.
-- 📝 **Interactive Elements:** Engaging UI components and animations to enhance user interaction and overall engagement.
-- 📈 **Project Highlights:** Provides in-depth insights into key projects and technologies used, demonstrating my expertise in modern web development.
+- 🖥️ **Fast and Optimized:** Utilizes the power of Next.js for improved performance and SEO.
+- 📁 **Showcase:** Displays various projects and accomplishments, highlighting my expertise in web development.
 
-Feel free to reach out for collaborations or if you have any questions!
+### [Contact Form](https://github.com/javed-tlp/contact-form)
+A fully functional contact form built with **Angular**. This project demonstrates:
 
-### [Contact Form Project](https://backend-repo-gamma.vercel.app/)
-Check out my contact form project, where I've implemented a fully functional contact form using **Node.js**, **Nodemailer**, **JavaScript**, **HTML**, and **API**. Key features include:
+- ✅ **Task Management:** Add, edit, and delete tasks with ease.
+- 📅 **Date and Time Integration:** Schedule tasks with timestamps.
+- 🛠️ **Robust Backend:** Powered by Node.js and Express for reliable performance.
+- 🎨 **Attractive UI:** Built with Angular and Bootstrap for a modern and user-friendly interface.
 
-- 📧 **Email Functionality:** Users can send messages directly via the form, with emails handled by Nodemailer.
-- 🛠️ **Backend Integration:** Utilizes Node.js for server-side handling and API integration for email sending.
-- 📄 **Form Validation:** Includes client-side validation to ensure data accuracy before submission.
-- 🌐 **Responsive Design:** Designed to be user-friendly and accessible across different devices and screen sizes.
+Feel free to explore these projects to get a glimpse of my work and expertise. For more details, visit my GitHub repositories!
 
 ---
 
-# 📈 Contributions
-I actively contribute to various open-source projects and enjoy collaborating with the community. Check out my contributions and collaborations on my [GitHub Profile](https://github.com/javed-tlp).
+<!-- Contact Me Section -->
+<div style="text-align: center; padding: 20px;">
 
----
+  <h2>📫 Contact Me</h2>
+  <p>If you'd like to get in touch, here’s how you can reach me:</p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=javed-tlp&label=Profile%20Views&color=4&icon=2&pretty=false" alt="Visit Count" />
-</p>
+  <ul style="list-style: none; padding: 0; margin: 0; font-size: 1.1em;">
+    <li>📧 <strong>Email:</strong> <a href="mailto:saifijaved616@gmail.com">saifijaved616@gmail.com</a></li>
+    <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/javed-saifi">Javed Saifi</a></li>
+  </ul>
+</div>
+
+Thanks for visiting my profile! Feel free to connect with me and let's collaborate on exciting projects!
