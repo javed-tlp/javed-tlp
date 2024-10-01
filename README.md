@@ -118,14 +118,18 @@ Feel free to explore these projects to get a glimpse of my work and expertise. F
 
 <!-- Contact Me Section -->
 <div style="text-align: center; padding: 20px;">
-
   <h2>📫 Contact Me</h2>
   <p>If you'd like to get in touch, here’s how you can reach me:</p>
 
   <ul style="list-style: none; padding: 0; margin: 0; font-size: 1.1em;">
     <li>📧 <strong>Email:</strong> <a href="mailto:saifijaved616@gmail.com">saifijaved616@gmail.com</a></li>
     <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/javed-saifi">Javed Saifi</a></li>
+    <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/your-twitter-handle">Twitter Handle</a></li>
+    <li>📁 <strong>Portfolio:</strong> <a href="https://javedportfolio.vercel.app/">javedportfolio.vercel.app</a></li>
   </ul>
 </div>
+
+Thanks for visiting my profile! Feel free to connect with me and let's collaborate on exciting projects!
+
 
 Thanks for visiting my profile! Feel free to connect with me and let's collaborate on exciting projects!
