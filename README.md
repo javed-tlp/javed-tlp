@@ -24,9 +24,21 @@ Here’s a snapshot of the technologies and tools I work with:
 
 <p align="center">
   <!-- Tech Stack Badges -->
-  <!-- Same as before -->
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a" alt="Angular Badge"/>
+  <img src="https://img.shields.io/badge/Frontend-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/Frontend-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a" alt="Next.js Badge"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a" alt="MySQL Badge"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a" alt="MongoDB Badge"/>
+  <img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a" alt="Postman Badge"/>
+  <img src="https://img.shields.io/badge/Tools-FileZilla-informational?style=flat&logo=filezilla&logoColor=white&color=2bbc8a" alt="FileZilla Badge"/>
+  <img src="https://img.shields.io/badge/Tools-PuTTY-informational?style=flat&logo=putty&logoColor=white&color=2bbc8a" alt="PuTTY Badge"/>
+  <img src="https://img.shields.io/badge/Version_Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a" alt="Windows Badge"/>
 </p>
-
 ---
 
 # 📊 GitHub Stats
