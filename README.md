@@ -12,7 +12,7 @@
   <li>🔭 <strong>Currently working on:</strong> Exciting projects with <strong>Angular</strong>, <strong>Node.js</strong>, and <strong>Next.js</strong>. Building robust web applications and exploring full-stack development.</li>
   <li>🌱 <strong>Learning:</strong> Diving into modern web frameworks and server-side rendering with <strong>Next.js</strong>.</li>
   <li>🤝 <strong>Seeking help with:</strong> Data Structures & Algorithms (DSA) to refine my problem-solving skills.</li>
-  <li>💬 <strong>Ask me about:</strong> AngularJS, Node.js, and Next.js—I'm always excited to discuss and share insights.</li>
+  <li>💬 <strong>Ask me about:</strong> Angular, Node.js, and Next.js—I'm always excited to discuss and share insights.</li>
   <li>📫 <strong>Reach out:</strong> <a href="mailto:saifijaved616@gmail.com">saifijaved616@gmail.com</a> – Let’s connect and collaborate!</li>
   <li>⚡ <strong>Fun Fact:</strong> I thrive on tackling coding challenges and experimenting with emerging technologies!</li>
 </ul>
