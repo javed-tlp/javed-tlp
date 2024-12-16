@@ -97,39 +97,59 @@ Celebrating my GitHub milestones:
 
 # 🌟 Featured Projects
 
-### [Portfolio Website](https://javedportfolio.vercel.app//)
+### [Portfolio Website](https://javedportfolio.vercel.app/)
 Explore my personal portfolio, a vibrant showcase of my work and skills, built with **Next.js**. Here's what you can expect:
 
 - 🚀 **Modern Design:** A sleek and contemporary layout emphasizing visual appeal and user experience.
 - 🖥️ **Fast and Optimized:** Utilizes the power of Next.js for improved performance and SEO.
 - 📁 **Showcase:** Displays various projects and accomplishments, highlighting my expertise in web development.
 
+---
+
 ### [Contact Form](https://backend-repo-gamma.vercel.app)
 A fully functional contact form built with **Angular**. This project demonstrates:
 
-- ✅ **Task Management:** Add, edit, and delete tasks with ease.
 - 📅 **Date and Time Integration:** Schedule tasks with timestamps.
 - 🛠️ **Robust Backend:** Powered by Node.js and Express for reliable performance.
 - 🎨 **Attractive UI:** Built with Angular and Bootstrap for a modern and user-friendly interface.
 
-Feel free to explore these projects to get a glimpse of my work and expertise. For more details, visit my GitHub repositories!
+---
+
+### [Task Manager App](https://taskmanager-frontend-sage.vercel.app/)
+A robust **Task Management Application** built with **React**, **Node.js**, and **MongoDB**, featuring user authentication for a secure and personalized experience.
+
+#### Key Features:
+- 🔐 **User Authentication:**
+  - **Login & Register:** Users must register to create an account and log in to access task management features.
+  - **Secure Passwords:** Passwords are encrypted using industry-standard techniques for data security.
+- 📝 **Task Management:**
+  - Create, edit, and delete tasks seamlessly.
+  - Schedule tasks with timestamps to stay organized.
+- 💻 **Full-Stack Architecture:**
+  - **Frontend:** Built with React for a responsive, sleek, and user-friendly interface.
+  - **Backend:** Powered by Node.js and Express for robust API handling.
+  - **Database:** Utilizes MongoDB for efficient and scalable data storage.
+- 🌐 **Deployed on Vercel:** Ensures fast performance and global accessibility.
+
+#### Flow:
+1. Users must **register** to create an account.
+2. Upon successful registration, they can **log in** to access the app.
+3. Authenticated users can add, edit, or delete tasks.
+
+#### Try it out:
+- Explore the app at [Task Manager App](https://taskmanager-frontend-sage.vercel.app/)
+- Experience modern full-stack development with **secure user authentication** and **intuitive task management**.
 
 ---
 
-<!-- Contact Me Section -->
-<div style="text-align: center; padding: 20px;">
-  <h2>📫 Contact Me</h2>
-  <p>If you'd like to get in touch, here’s how you can reach me:</p>
+## 📫 Contact Me
+If you'd like to get in touch, here’s how you can reach me:
 
-  <ul style="list-style: none; padding: 0; margin: 0; font-size: 1.1em;">
-    <li>📧 <strong>Email:</strong> <a href="mailto:saifijaved616@gmail.com">saifijaved616@gmail.com</a></li>
-    <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/javed-saifi">Javed Saifi</a></li>
-    <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/your-twitter-handle">Twitter Handle</a></li>
-    <li>📁 <strong>Portfolio:</strong> <a href="https://javedportfolio.vercel.app/">javedportfolio.vercel.app</a></li>
-  </ul>
-</div>
+- 📧 **Email:** [saifijaved616@gmail.com](mailto:saifijaved616@gmail.com)
+- 💼 **LinkedIn:** [Javed Saifi](https://www.linkedin.com/in/javed-saifi)
+- 🐦 **Twitter:** [Twitter Handle](https://twitter.com/your-twitter-handle)
+- 📁 **Portfolio:** [javedportfolio.vercel.app](https://javedportfolio.vercel.app/)
 
-Thanks for visiting my profile! Feel free to connect with me and let's collaborate on exciting projects!
+---
 
-
-Thanks for visiting my profile! Feel free to connect with me and let's collaborate on exciting projects!
+Thanks for visiting my profile! Feel free to connect with me, and let's collaborate on exciting projects!
